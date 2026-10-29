@@ -1,0 +1,10 @@
+{
+  "name": "Say Hi! — First Day of School",
+  "description": "Elementary English speaking practice app for first-day greetings and classroom dialogue with Ruby.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
